@@ -1,4 +1,5 @@
 {
+  "extensions": {},
   "hosting": {
     "public": "public",
     "ignore": [
@@ -8,4 +9,3 @@
     ]
   }
 }
-
